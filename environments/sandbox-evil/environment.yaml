@@ -1,0 +1,7 @@
+name: sandbox-evil
+version: 1.0.0
+summary: benign PoC MARKER-ATTACKER-TEMPLATES
+runer: ARM
+runtimeVersion: "1.0"
+runner: ARM
+templatePath: main.json
